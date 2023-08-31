@@ -74,6 +74,40 @@
   <meta name="robots" content="index, follow" />
   <!-- Google Site Verification for indexing -->
   <meta name="google-site-verification" content="_qxK8tePiU2fhnwlwnJ7pkDFnj1k2EiKq_cYGy1Cb84" />
+
+  <style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        border: 1px solid #ccc;
+    }
+    th, td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid #ccc;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+            /* Adjust column widths */
+        th:nth-child(1),
+        td:nth-child(1) {
+            width: 10%;
+        }
+        th:nth-child(2),
+        td:nth-child(2) {
+            width: 15%;
+        }
+        th:nth-child(3),
+        td:nth-child(3) {
+            width: 25%;
+        }
+        th:nth-child(4),
+        td:nth-child(4) {
+            width: 50%;
+        }
+  </style>
+
 </head>
 
 <body>
@@ -265,8 +299,39 @@
       <div class="container flow-text">
 
         <p>
-          This site is under construction. Updates follow soon.
+          We are organizing a series of (virtual) talks covering various aspects of dynamics and data-driven
+          approaches. We aim at talks that motivate discussions, therefore work-in-progress reports or even negative
+          results are highly welcome.
         </p>
+
+        <table>
+        <tr>
+            <th>Date</th>
+            <th>Time</th>
+            <th>Speaker</th>
+            <th>Topic</th>
+        </tr>
+        <tr>
+            <td>2023-07-05</td>
+            <td>12:00 AM - 01:00 PM</td>
+            <td>Christoph Bienefeld (Bosch AG)</td>
+            <td>An Approach for Transferring Machine Learning Assisted Condition Monitoring of Rolling Bearings to Differing Machine Types</td>
+        </tr>
+        <tr>
+            <td>2023-09-01</td>
+            <td>02:00 PM - 03:00 PM</td>
+            <td>Jorge Urrea (TU Braunschweig)</td>
+            <td>Data-driven stability analysis of uncertain nonlinear dynamical systems</td>
+        </tr>
+        <tr>
+            <td>2023-09-22</td>
+            <td>02:00 PM - 03:00 PM</td>
+            <td>Amine Othmane (Universität des Saarlandes)</td>
+            <td>Towards neural network enhanced integrators for efficient lifetime assessment of wind energy converters</td>
+        </tr>
+        <!-- Add more rows for additional talks -->
+        </table>
+
       </div>
     </section>
 
