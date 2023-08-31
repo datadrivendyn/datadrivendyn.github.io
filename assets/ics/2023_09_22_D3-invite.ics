@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Merten Stender
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:00000000000001@d3.com
+LOCATION:https://tu-berlin.zoom.us/j/6798543158?pwd=UzN2a3FNV21VR1FkUmlVa1dFbnRLZz09
+SUMMARY:D3 online talk: Towards neural network enhanced integrators for efficient lifetime assessment of wind energy converters
+DESCRIPTION:D3: Data-Driven Dynamics Online Talk Series; Sep. 1st 2023, 01pm - 02pm (German time) - Talk by Amine Othmane (Universität des Saarlandes) on "Towards neural network enhanced integrators for efficient lifetime assessment of wind energy converters." Zoom Link: https://tu-berlin.zoom.us/j/6798543158?pwd=UzN2a3FNV21VR1FkUmlVa1dFbnRLZz09; Meeting-ID: 679 854 3158; Kenncode: 508163; Further topics: discussions on activities, data sets, benchmark systems, conferences, special issues
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><b>D3: Data-Driven Dynamics Online Talk Series</b><br> <br>Sep. 1st 2023\, 01pm - 02pm (German time)<br> <br>Talk by <b>Amine Othmane</b> (Universität des Saarlandes) on "<b>Towards neural network enhanced integrators for efficient lifetime assessment of wind energy converters</b>."<br><br>Zoom Link:<br><a href="https://tu-berlin.zoom.us/j/6798543158?pwd=UzN2a3FNV21VR1FkUmlVa1dFbnRLZz09">https://tu-berlin.zoom.us/j/6798543158?pwd=UzN2a3FNV21VR1FkUmlVa1dFbnRLZz09</a><br><br>Meeting-ID: 679 854 3158<br>Kenncode: 508163<br> <br><u>Further topics:</u> discussions on activities\, data sets\, benchmark systems\, conferences\, special issues</body></html>
+CLASS:PUBLIC
+DTSTART:20230922T110000Z
+DTEND:20230922T120000Z
+DTSTAMP:20230831T200000Z
+END:VEVENT
+END:VCALENDAR
