@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+LAST-MODIFIED:20230407T050750Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20230906T210130Z
+UID:1694033922514-7986163@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20231026T093000
+DTEND;TZID=Europe/Berlin:20231026T103000
+SUMMARY:D3 guest talk: Mastering Chaos with Physics Aware Neural Networks
+URL:https://datadrivendyn.github.io/#talks
+DESCRIPTION:D3: Data-Driven Dynamics Online Talk Series\; \n\nOct. 26th 2023\, 09:30am - 10:30am (CET) - Talk by Sudeshna Sinha (Department of Physics, Indian Institute of Science Education and Research (IISER), Mohali, India) on "Mastering Chaos with Physics Aware Neural Networks." \n\nZoom Link: https://tu-berlin.zoom.us/j/6798543158?pwd=UzN2a3FNV21VR1FkUmlVa1dFbnRLZz09\; Meeting-ID: 679 854 3158\; Kenncode: 508163\;
+LOCATION:https://tu-berlin.zoom.us/j/6798543158?pwd=UzN2a3FNV21VR1FkUmlVa1dFbnRLZz09
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D3 guest talk: Mastering Chaos with Physics Aware Neural Networks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
