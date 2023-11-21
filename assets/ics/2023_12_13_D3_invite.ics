@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:D3: Data-Driven Dynamics Online Talk Series \n\nDec. 13th 2023\, 01:00pm - 02:00pm (CET) - Talk by Jan van Delden (Uni Göttingen) on "Hands-on introduction to Weights&Biases" \n\nZoom Link: https://tu-berlin.zoom.us/j/6798543158?pwd=UzN2a3FNV21VR1FkUmlVa1dFbnRLZz09\, Meeting-ID: 679 854 3158\; Kenncode: 508163
+DTEND:20231213T130000Z
+LOCATION:https://tu-berlin.zoom.us/j/6798543158?pwd=UzN2a3FNV21VR1FkUmlVa1dFbnRLZz09
+DTSTART:20231213T120000Z
+SUMMARY:D3 Meeting: Hands-on introduction to Weights&Biases
+UID:6bd2ba86-feab-4895-8253-d9182690514b@6bd2.org
+END:VEVENT
+END:VCALENDAR
