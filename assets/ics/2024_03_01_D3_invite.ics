@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Data-Driven Dynamics Online Talk Series\; \n\nMarch 1st 2024\, 01:00pm - 02:00pm (CET) - Talk by Daniel Kreuter (Bosch) on Open Engineering Data Sets\n\nZoom Link: https://uni-kassel.zoom.us/j/96592363122?pwd=OGp1L3ZHNjl3UUY4c0JqSUpJSnVwZz09\; Meeting-ID: 965 9236 3122 \; Kenncode: 199683 
+DTEND;TZID=Europe/Berlin:20240301T140000
+LOCATION:https://uni-kassel.zoom.us/j/96592363122?pwd=OGp1L3ZHNjl3UUY4c0JqSUpJSnVwZz09
+DTSTART;TZID=Europe/Berlin:20240301T130000
+SUMMARY:D3 Meeting: Bosch Open Engineering Data Sets
+TRANSP:OPAQUE
+UID:c02e3d1e-ddf8-44db-8060-1536e3aeb260
+URL:https://uni-kassel.zoom.us/j/96592363122?pwd=OGp1L3ZHNjl3UUY4c0JqSUpJSnVwZz09
+END:VEVENT
+END:VCALENDAR

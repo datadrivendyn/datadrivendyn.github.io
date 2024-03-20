@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Data-Driven Dynamics Community Meeting\; \n\nMarch 20th 2024\, 03:25pm - 04:00pm (CET) Discussions and ExchangeRoom: G22/217
+DTEND;TZID=Europe/Berlin:20240320T160000
+LOCATION:Room: G22/217
+DTSTART;TZID=Europe/Berlin:20240320T152500
+SUMMARY:D3 Gathering at GAMM2024
+TRANSP:OPAQUE
+UID:14d4dcc4-796f-43d5-a87e-2d554b3faf99
+END:VEVENT
+END:VCALENDAR
