@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Data-Driven Dynamics Online Talk Series\; \n\nJuly 12th 2024\, 01:00pm - 02:00pm (CET) - Talk by Dr. Manish Yadav (TU Berlin) on Reservoir Computing for Time Series Prediction\n\nZoom Link: https://tu-berlin.zoom.us/j/6798543158?pwd=UzN2a3FNV21VR1FkUmlVa1dFbnRLZz09\; Meeting-ID: 679 854 3158 \; Kenncode: 508163 
+DTEND;TZID=Europe/Berlin:20240712T140000
+LOCATION:https://tu-berlin.zoom.us/j/6798543158?pwd=UzN2a3FNV21VR1FkUmlVa1dFbnRLZz09
+DTSTART;TZID=Europe/Berlin:20240712T130000
+SUMMARY:D3 Meeting: Reservoir Computing for Time Series Prediction
+TRANSP:OPAQUE
+UID:10738478-8cc9-4aff-931d-f361fe83bec6
+URL:https://tu-berlin.zoom.us/j/6798543158?pwd=UzN2a3FNV21VR1FkUmlVa1dFbnRLZz09
+END:VEVENT
+END:VCALENDAR
