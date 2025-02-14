@@ -1,0 +1,13 @@
+main:
+  - title: "People"
+    url: /people/
+  - title: "Talk Series"
+    url: /talkseries/
+  - title: "Datasets"
+    url: /datasets/
+  - title: "Conferences"
+    url: /conferences/
+  #- title: "About"
+  #  url: /about/
+  - title: "Contact"
+    url: /contact/
