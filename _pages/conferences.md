@@ -16,4 +16,5 @@ Find a curated list of conferences/workshops that can be of interest for the D3 
 | [ECCOMAS2024 (MS600)](https://eccomas2024.org/)                         | June 3-7, 2024       | Lisbon / Portugal         |
 | [WCCM24 (MS Data-Driven Dynamics)](https://www.wccm2024.org/)           | July 21-26, 2024     | Vancouver / Canada        |
 | [Modelling, Data Analytics and AI in Engineering](https://madeai-eng.org/) | July 02-05, 2024     | Porto / Portugal          |
+| [Workshop on Nonlinear System Identification Benchmarks](https://www.nonlinearbenchmark.org/workshop) | May 12-14, 2025 | Eindhoven / The Netherlands         |
 | [ICOVP and WMVC](https://www.icovp-wmvc.com)                            | September 02-05, 2025 | Lisbon / Portugal         |
