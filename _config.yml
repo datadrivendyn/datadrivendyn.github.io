@@ -37,7 +37,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-
+  - _posts
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -55,8 +55,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-#  - jekyll-feed
-#  - jemoji
+  - jekyll-feed
+  - jemoji
   - jekyll-include-cache
 
 
@@ -94,18 +94,18 @@ atom_feed:
   hide: true
 
 defaults:
-  # _posts
-  #- scope:
-  #    path: ""
-      #type: posts
-  #  values:
-  #    layout: single
-      #author_profile: true
-      #read_time: true
-      #comments: true
-      #share: true
-      #related: true
-  # _pages
+  #_posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  #_pages
   - scope:
       path: "_pages"
       type: pages
