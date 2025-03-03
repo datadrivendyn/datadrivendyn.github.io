@@ -12,6 +12,7 @@ A collection of different data sets of relevance.
 | Name                                 | Description                                                                                                        |
 |--------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | [DORA: Duffing Oscillator Response Analysis](https://github.com/maneesh51/Benchmark-Tasks) | Prediction of nonlinear dynamics (time series data) under varying external parameters (forcing amplitude) in the extreme small-data limit and for qualitatively rich dynamics |
+| [Nonlinear Benchmark Collections](https://www.nonlinearbenchmark.org/) | A list of hosted nonlinear dynamical system datasets for e.g. unsteady fluid dynamics, an industrial robot, and more |
 
 **Open rolling bearing data sets**
 
