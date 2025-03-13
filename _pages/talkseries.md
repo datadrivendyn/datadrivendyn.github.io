@@ -19,4 +19,4 @@ We are organizing a series of (virtual) talks covering various aspects of dynami
 | 2024-03-01 | 01:00 PM - 02:00 PM (CET)     | Daniel Kreuter, BOSCH                           | Bosch Open Data Sets                                                  | [Download .ics file](../assets/ics/2024_03_01_D3_invite.ics) |
 | 2024-03-20 | 03:25 PM - 04:00 PM (CET)     | GAMM2024                                         | Gathering at the GAMM Annual Meeting in Magdeburg 2024                | [Download .ics file](../assets/ics/2024_03_20_D3_invite.ics) |
 | 2024-07-12 | 01:00 PM - 02:00 PM (CET)     | Manish Yadav, TU Berlin                         | Reservoir Computing for Time Series Prediction                        | [Download .ics file](../assets/ics/2024_07_12_D3_invite.ics) |
-
+| 2025-02-26 | 12:30 AM - 01:30 PM (CET)     | Dr. Maarten Schoukens, Eindhoven University of Technology                       | nonlinearbenchmark.org: some lessons learned and thoughts on promoting benchmarks for nonlinear system identification                        | [Download .ics file](../assets/ics/2025_02_26_D3_invite.ics) |
