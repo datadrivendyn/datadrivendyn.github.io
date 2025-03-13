@@ -3,8 +3,8 @@ main:
     url: /people/
   - title: "Talk Series"
     url: /talkseries/
-  - title: "Datasets"
-    url: /datasets/
+  - title: "Resources"
+    url: /resources/
   - title: "Conferences"
     url: /conferences/
   #- title: "About"

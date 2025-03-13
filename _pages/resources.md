@@ -1,11 +1,15 @@
 ---
-permalink: /datasets/
-title: "Data Sets"
+permalink: /resources/
+title: "Resources"
 classes: wide
 layout: splash
 ---
-## Data Sets
-A collection of different data sets of relevance.
+## Resources
+A collection of different resources of relevance:
+- [Open Data Sets](#open-data-sets)
+- [Educational Resources](#educational-resources)
+
+## Open Data Sets
 
 **Nonlinear (structural) dynamics**
 
@@ -34,8 +38,9 @@ A collection of different data sets of relevance.
 |-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | [Learning to Predict Structural Vibrations](https://paperswithcode.com/paper/vibroacoustic-frequency-response-prediction) | Benchmark deep learning model for predicting vibrations of harmonically excited plates. |
 
-**Educational Resources**
+## Educational Resources
 
 | Name                                                      | Description                                                                                                         |
 |-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | [Data Science for Dynamical Systems (DS4DS)](https://www.youtube.com/@UPB_DS4DS-bu8ec/videos) | Channel for Paderborn University’s initiative on ‘Data Science for Dynamical Systems’ that addresses open education and science contributions in control engineering and machine learning. By Sebastian Peitz and Oliver Wallscheid |
+[Complexity and Networks COmmunity and REsources (CORE) )](https://complexity-core.github.io/) | is An umbrella organization that aims to gather resources and events directed to the Complexity and Network Science community. |
