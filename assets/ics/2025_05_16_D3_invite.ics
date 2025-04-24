@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Data-Driven Dynamics Online Talk Series\; \n\nMay 16th 2025\, 12:00pm - 01:00pm (CET) - Talk by Sophie Cram (BMW) on Frequency-Domain-Based Parameterdentification of a Finite Element Vehicle Body in Vibroacoustics\n\nZoom Link: https://tu-berlin.zoom.us/j/6798543158?pwd=UzN2a3FNV21VR1FkUmlVa1dFbnRLZz09\; Meeting-ID: 679 854 3158 \; Kenncode: 508163 
+DTEND;TZID=Europe/Berlin:20250516T130000
+LOCATION:https://tu-berlin.zoom.us/j/6798543158?pwd=UzN2a3FNV21VR1FkUmlVa1dFbnRLZz09
+DTSTART;TZID=Europe/Berlin:20250516T120000
+SUMMARY:D3 Virtual Meeting
+TRANSP:OPAQUE
+UID:7c90d5d6-6b77-4ac2-94fe-1142a28ed984
+URL:https://tu-berlin.zoom.us/j/6798543158?pwd=UzN2a3FNV21VR1FkUmlVa1dFbnRLZz09
+END:VEVENT
+END:VCALENDAR
