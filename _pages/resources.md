@@ -43,4 +43,5 @@ A collection of different resources of relevance:
 | Name                                                      | Description                                                                                                         |
 |-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | [Data Science for Dynamical Systems (DS4DS)](https://www.youtube.com/@DataScience4DynamicalSystems/featured) | Channel for Paderborn University’s initiative on ‘Data Science for Dynamical Systems’ that addresses open education and science contributions in control engineering and machine learning. By Sebastian Peitz and Oliver Wallscheid |
+| [Jason Bramburger's Youtube Channel](https://www.youtube.com/@jasonbramburger) | Data-Driven Dynamics by Jason Bramburger |
 [Complexity and Networks COmmunity and REsources (CORE) )](https://complexity-core.github.io/) | is An umbrella organization that aims to gather resources and events directed to the Complexity and Network Science community. |
