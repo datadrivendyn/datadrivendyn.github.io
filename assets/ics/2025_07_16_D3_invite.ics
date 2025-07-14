@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Data-Driven Dynamics Online Talk Series \n\nJuly 16 2025, 12:00 - 13:00 (CET) - Talk by Henrik Sykora (Budapest University of Technology and Economics) on Learning stochastic nonlinear dynamics via maximising transition likelihood\n\nZoom Link: https://tu-berlin.zoom.us/j/6798543158?pwd=UzN2a3FNV21VR1FkUmlVa1dFbnRLZz09\nMeeting-ID: 679 854 3158 \nKenncode: 508163 
+DTEND;TZID=Europe/Berlin:20250716T130000
+LOCATION:https://tu-berlin.zoom.us/j/6798543158?pwd=UzN2a3FNV21VR1FkUmlVa1dFbnRLZz09
+DTSTART;TZID=Europe/Berlin:20250716T120000
+SUMMARY: D3 Meeting: Learning stochastic nonlinear dynamics via maximising transition likelihood
+TRANSP:OPAQUE
+UID:1d805b2b-6169-44a3-a1f3-c3a96e0c93f2
+URL:https://tu-berlin.zoom.us/j/6798543158?pwd=UzN2a3FNV21VR1FkUmlVa1dFbnRLZz09
+END:VEVENT
+END:VCALENDAR
